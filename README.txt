@@ -1,0 +1,1 @@
+This is a text based adventure game created using Python.
