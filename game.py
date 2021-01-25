@@ -9,11 +9,11 @@ os.system("clear")
 # Calls get_player_name and returns the player name
 def main():
 
-    starting_health = 30
+    health = 30
     
     get_player_name()
 
-    start_adventure(starting_health)
+    start_adventure(health)
 
     tprint("Game Over")
 
